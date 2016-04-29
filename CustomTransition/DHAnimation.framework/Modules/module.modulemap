@@ -1,0 +1,6 @@
+framework module DHAnimation {
+  umbrella header "DHAnimation.h"
+
+  export *
+  module * { export * }
+}
